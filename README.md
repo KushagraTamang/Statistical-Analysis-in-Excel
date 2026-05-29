@@ -68,7 +68,7 @@ The project focuses on answering the following analytical questions:
 
 ## 📂 Dataset Information
 
-* **Rows:** 1,000+
+* **Rows:** 1,000
 * **Fields Included:**
 
   * Customer Name
